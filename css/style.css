@@ -1,4 +1,106 @@
-@font-face {
+#container {
+width: 95%;
+text-align: center;
+margin-left: 5%;
+}
+
+span {
+    /*position: fixed;*/
+    font-size: 45px;
+    margin-top: 1%;
+    float: left;
+}
+
+h1{
+
+  margin-top: 3%;
+  font-size: 45px;
+  padding: 10px;
+  width: 80%;
+  margin-left: 7%;
+}
+
+.menu {
+    width: 80px;
+    float: left;
+    margin-top: 2%;
+}
+
+.uno {
+    background-color: pink;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.dos {
+    background-color: lightblue;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.tres {
+    background-color: yellow;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.cuatro {
+    background-color: violet;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.cinco {
+    background-color: lightgreen;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.seis {
+    background-color: gold;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+.siete {
+    background-color: hotpink;
+    height: 40px;
+    text-align: center;
+   padding-top: 20px;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#info {
+      position: relative;
+      margin-left: 7%;
+      background-color: lightgray;
+      margin-top: 2%;
+      padding-top: 4%;
+      padding-bottom: 6%;
+}
+
+.info {
+  background-color: lightgray;
+  font-size: 27px;
+  padding: 6px;
+  text-align: left;
+  margin-left: 3%;
+}
+
+
+
+
+
+
+/*@font-face {
   font-family: 'IBM Plex Sans';
   font-weight: 200;
   font-style: normal;
